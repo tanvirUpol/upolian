@@ -12,4 +12,4 @@
 
 
 [twitter]: https://twitter.com/RandomDevUpol
-[instagram]: https://www.instagram.com/_upolian_/
+[instagram]: https://www.instagram.com/_random_dev_/
