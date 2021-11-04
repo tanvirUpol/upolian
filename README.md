@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @upolian
+# 👋 Hi I'm Tanvir Rahman Upol
 - 👀 I’m interested in making cool and random stuff
 - 🌱 I’m currently learning web devlopment
 
 
-<!---
-upolian/upolian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect with me:
+
+[<img align="left" alt="upol | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="upol | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+[twitter]: https://twitter.com/RandomDevUpol
+[instagram]: https://www.instagram.com/_upolian_/
